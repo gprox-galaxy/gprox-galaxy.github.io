@@ -1,1 +1,1 @@
-galaxytunnel.io
+github.com/galaxytunnel.io
