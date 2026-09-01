@@ -1,18 +1,27 @@
-# Galaxy Proxy IP List
-# Updated: 2026-08-31
+# ============================================
+# Galaxy High-Speed Hybrid Proxy IP List
+# Optimized for Myanmar ISP & Speed Boost
+# ============================================
 
-# IPv4
+# --- Fast Anycast IPv4 (Ultra-Low Latency) ---
 104.16.85.20
 104.17.123.45
 104.21.234.45
 172.64.155.1
 172.65.250.1
 
-# IPv6
+# --- Fast IPv6 Clean IPs (ISP Throttling Bypass) ---
 2606:4700:4700::1111
 2606:4700:4700::1001
+2606:4700::6810:5514
+2606:4700::6811:7b2d
+2400:cb00:2049:1::a29f:1804
+2400:cb00:2049:1::c629:d6a2
 
-# CDN Domains
-cdn.xn--b6gac.eu.org
-cdn-all.xn--b6gac.eu.org
+# --- Clean Asia-Pacific CDN Domains ---
+icook.hk
+icook.tw
+www.visa.com.sg
 cdn-b100.xn--b6gac.eu.org
+cdn.xn--b6gac.eu.org
+bpb.yousef.isegaro.com
