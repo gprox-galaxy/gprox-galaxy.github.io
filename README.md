@@ -1,1 +1,1 @@
-gprox-galaxy.github.io
+galaxytunnel.github.io
